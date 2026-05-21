@@ -1,4 +1,4 @@
-﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()>
+<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()>
 Partial Class FormUtama
     Inherits System.Windows.Forms.Form
 
@@ -33,18 +33,6 @@ Partial Class FormUtama
         LabelTagline = New Label()
         PanelFooter = New Panel()
         LabelFooter = New Label()
-        PanelIkon1 = New Panel()
-        PanelIkon2 = New Panel()
-        PanelIkon3 = New Panel()
-        PanelIkon4 = New Panel()
-        LabelIkon1 = New Label()
-        LabelIkon2 = New Label()
-        LabelIkon3 = New Label()
-        LabelIkon4 = New Label()
-        LabelKap1 = New Label()
-        LabelKap2 = New Label()
-        LabelKap3 = New Label()
-        LabelKap4 = New Label()
         MenuStrip1.SuspendLayout()
         PanelBackground.SuspendLayout()
         PanelFooter.SuspendLayout()
@@ -202,90 +190,7 @@ Partial Class FormUtama
         LabelFooter.TabIndex = 0
         LabelFooter.Text = "© 2026 HOTEL VISUAL — ALL RIGHTS RESERVED"
         LabelFooter.TextAlign = ContentAlignment.MiddleCenter
-        ' 
-        ' PanelIkon1
-        ' 
-        PanelIkon1.Location = New Point(0, 0)
-        PanelIkon1.Name = "PanelIkon1"
-        PanelIkon1.Size = New Size(200, 100)
-        PanelIkon1.TabIndex = 0
-        ' 
-        ' PanelIkon2
-        ' 
-        PanelIkon2.Location = New Point(0, 0)
-        PanelIkon2.Name = "PanelIkon2"
-        PanelIkon2.Size = New Size(200, 100)
-        PanelIkon2.TabIndex = 0
-        ' 
-        ' PanelIkon3
-        ' 
-        PanelIkon3.Location = New Point(0, 0)
-        PanelIkon3.Name = "PanelIkon3"
-        PanelIkon3.Size = New Size(200, 100)
-        PanelIkon3.TabIndex = 0
-        ' 
-        ' PanelIkon4
-        ' 
-        PanelIkon4.Location = New Point(0, 0)
-        PanelIkon4.Name = "PanelIkon4"
-        PanelIkon4.Size = New Size(200, 100)
-        PanelIkon4.TabIndex = 0
-        ' 
-        ' LabelIkon1
-        ' 
-        LabelIkon1.Location = New Point(0, 0)
-        LabelIkon1.Name = "LabelIkon1"
-        LabelIkon1.Size = New Size(100, 23)
-        LabelIkon1.TabIndex = 0
-        ' 
-        ' LabelIkon2
-        ' 
-        LabelIkon2.Location = New Point(0, 0)
-        LabelIkon2.Name = "LabelIkon2"
-        LabelIkon2.Size = New Size(100, 23)
-        LabelIkon2.TabIndex = 0
-        ' 
-        ' LabelIkon3
-        ' 
-        LabelIkon3.Location = New Point(0, 0)
-        LabelIkon3.Name = "LabelIkon3"
-        LabelIkon3.Size = New Size(100, 23)
-        LabelIkon3.TabIndex = 0
-        ' 
-        ' LabelIkon4
-        ' 
-        LabelIkon4.Location = New Point(0, 0)
-        LabelIkon4.Name = "LabelIkon4"
-        LabelIkon4.Size = New Size(100, 23)
-        LabelIkon4.TabIndex = 0
-        ' 
-        ' LabelKap1
-        ' 
-        LabelKap1.Location = New Point(0, 0)
-        LabelKap1.Name = "LabelKap1"
-        LabelKap1.Size = New Size(100, 23)
-        LabelKap1.TabIndex = 0
-        ' 
-        ' LabelKap2
-        ' 
-        LabelKap2.Location = New Point(0, 0)
-        LabelKap2.Name = "LabelKap2"
-        LabelKap2.Size = New Size(100, 23)
-        LabelKap2.TabIndex = 0
-        ' 
-        ' LabelKap3
-        ' 
-        LabelKap3.Location = New Point(0, 0)
-        LabelKap3.Name = "LabelKap3"
-        LabelKap3.Size = New Size(100, 23)
-        LabelKap3.TabIndex = 0
-        ' 
-        ' LabelKap4
-        ' 
-        LabelKap4.Location = New Point(0, 0)
-        LabelKap4.Name = "LabelKap4"
-        LabelKap4.Size = New Size(100, 23)
-        LabelKap4.TabIndex = 0
+
         ' 
         ' FormUtama
         ' 
@@ -324,16 +229,4 @@ Partial Class FormUtama
     Friend WithEvents LabelVisual As Label
     Friend WithEvents LabelTagline As Label
     Friend WithEvents LabelFooter As Label
-    Friend WithEvents PanelIkon1 As Panel
-    Friend WithEvents PanelIkon2 As Panel
-    Friend WithEvents PanelIkon3 As Panel
-    Friend WithEvents PanelIkon4 As Panel
-    Friend WithEvents LabelIkon1 As Label
-    Friend WithEvents LabelIkon2 As Label
-    Friend WithEvents LabelIkon3 As Label
-    Friend WithEvents LabelIkon4 As Label
-    Friend WithEvents LabelKap1 As Label
-    Friend WithEvents LabelKap2 As Label
-    Friend WithEvents LabelKap3 As Label
-    Friend WithEvents LabelKap4 As Label
 End Class
